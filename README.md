@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Raj</h1>
-<h3 align="center">Passionate about learning, purposeful in coding -Keep_Grinding</h3>
+<h3 align="center">Passionate about learning, purposeful in coding.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
