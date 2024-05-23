@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/manishraj27](https://dev.to/manishraj27)
  
-- 💙 Visit my Portfolio ar [https://manishraj.me](https://manishraj.me/)
+- 💙 Visit my Portfolio at [https://manishraj.me](https://manishraj.me/)
   
 - 📫 How to reach me **manish__raj@outlook.com**
 
