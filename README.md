@@ -33,8 +33,8 @@
 [![An image of @manishraj27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishraj27)](https://holopin.io/@manishraj27)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manishraj27&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=manishraj27&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=manishraj27&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=manishraj27&theme=algolia&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manishraj27&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
