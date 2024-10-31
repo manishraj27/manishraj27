@@ -27,11 +27,6 @@
 [![An image of @manishraj27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishraj27)](https://holopin.io/@manishraj27)
 
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manishraj27&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manishraj27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
