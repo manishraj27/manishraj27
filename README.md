@@ -30,6 +30,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manishraj27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishraj27" alt="manishraj27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishraj27&" alt="manishraj27" /></p>
 ---
 
