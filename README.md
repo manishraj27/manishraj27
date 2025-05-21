@@ -36,7 +36,10 @@ _Passionate about learning, purposeful in coding_
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manishraj27&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishraj27&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishraj27&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
@@ -49,8 +52,4 @@ _Passionate about learning, purposeful in coding_
   <img src="https://github-contributor-stats.vercel.app/api?username=manishraj27&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </div>
 
-<div align="center">
-  
-  ![Visitors](https://visitcount.itsvg.in/api?id=manishraj27&icon=5&color=6)
-  
-</div>
+
