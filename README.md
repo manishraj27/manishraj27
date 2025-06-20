@@ -2,7 +2,7 @@
   
 # Manish Raj
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manishraj.netlify.app-blue?style=flat&logo=google-chrome)](https://manishraj.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manishraj.in-blue?style=flat&logo=google-chrome)](https://manishraj.in/)
 [![Blog](https://img.shields.io/badge/Blog-dev.to/manishraj27-black?style=flat&logo=dev.to)](https://dev.to/manishraj27)
 [![Email](https://img.shields.io/badge/Email-manish__raj@outlook.com-red?style=flat&logo=gmail)](mailto:manish__raj@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manishraj27-blue?style=flat&logo=linkedin)](https://linkedin.com/in/manishraj27)
