@@ -47,4 +47,11 @@ _Passionate about learning, purposeful in coding_
   <img src="https://github-contributor-stats.vercel.app/api?username=manishraj27&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishraj27/manishraj27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishraj27/manishraj27/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manishraj27/manishraj27/output/github-snake.svg" />
+</picture>
+
+
 
